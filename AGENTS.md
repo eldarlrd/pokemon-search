@@ -3,9 +3,9 @@ You are an expert in TypeScript, jQuery, Bulma, Axios, Biome, Rsbuild, and web a
 and accessible code.
 
 ## Commands
-- `bun dev` - Start the dev server
-- `bun bundle` - Build the app for production
-- `bun preview` - Preview the production build locally
+- `deno run dev` - Start the dev server
+- `deno run build` - Build the app for production
+- `deno run preview` - Preview the production build locally
 
 ## Docs
 - [Rsbuild](https://rsbuild.rs/llms.txt)
@@ -13,4 +13,4 @@ and accessible code.
 
 ## Tools
 ### Biome
-- Run `bun check` to lint & format your code
+- Run `deno run check` to lint & format your code

@@ -1,6 +1,6 @@
 {
 	"name": "pokemon-search",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"private": true,
 	"type": "module",
 	"keywords": [
@@ -13,9 +13,9 @@
 	"license": "AGPL-3.0-only",
 	"scripts": {
 		"dev": "rsbuild dev --open",
-		"bundle": "rsbuild build",
+		"build": "rsbuild build",
 		"preview": "rsbuild preview",
-		"deployer": "bun bundle && gh-pages -b prod -m 'build(prod): deployment' -d dist",
+		"deployer": "deno run build && gh-pages -b prod -m 'build(prod): deployment' -d dist",
 		"check": "biome check --write"
 	},
 	"dependencies": {

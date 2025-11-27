@@ -21,7 +21,7 @@
 const rootEl = document.querySelector('#root');
 
 if (rootEl)
-	rootEl.innerHTML = `
+  rootEl.innerHTML = `
   <div>
     Hello World!
   </div>

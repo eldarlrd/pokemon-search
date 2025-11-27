@@ -12,8 +12,27 @@
 		"clientKind": "git",
 		"useIgnoreFile": true
 	},
+	"html": {
+		"formatter": {
+			"enabled": true,
+			"indentStyle": "space",
+			"bracketSameLine": true
+		}
+	},
+	"css": {
+		"formatter": {
+			"enabled": true,
+			"indentStyle": "space",
+			"quoteStyle": "single"
+		},
+		"parser": {
+			"cssModules": true,
+			"tailwindDirectives": true
+		}
+	},
 	"javascript": {
 		"formatter": {
+			"indentStyle": "space",
 			"quoteStyle": "single",
 			"jsxQuoteStyle": "single",
 			"trailingCommas": "none",
@@ -21,14 +40,8 @@
 			"bracketSameLine": true
 		}
 	},
-	"css": {
-		"parser": {
-			"cssModules": true
-		}
-	},
 	"linter": {
 		"rules": {
-			"recommended": true,
 			"correctness": {
 				"noUnusedVariables": "error",
 				"noUnusedImports": "error",
