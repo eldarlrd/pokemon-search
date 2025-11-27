@@ -4,10 +4,11 @@
 
 > Pokémon Search is a simple app made with
 > - **[TypeScript](https://typescriptlang.org)**
-> - **[jQuery](https://jquery.com)**
+> - **[jQuery v4](https://jquery.com)**
 > - **[Bulma](https://bulma.io)**
 > - **[Axios](https://axios-http.com)**
 > - **[Rsbuild](https://rsbuild.rs)**
+> - **[Material Icons](https://fonts.google.com/icons?icon.set=Material+Icons)**
 > 
 > that allows retrieving Pokémon stats.
 

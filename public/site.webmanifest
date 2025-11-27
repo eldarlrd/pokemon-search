@@ -1,0 +1,21 @@
+{
+	"name": "Pokémon Search",
+	"short_name": "Pokémon Search",
+	"dir": "ltr",
+	"lang": "en",
+	"categories": ["entertainment"],
+	"display": "fullscreen",
+	"orientation": "natural",
+	"theme_color": "#fff",
+	"background_color": "#fff",
+	"description": "A Pokémon Search app",
+	"start_url": "https://eldarlrd.github.io/pokemon-search/",
+	"icons": [
+		{
+			"src": "favicon.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "any maskable"
+		}
+	]
+}
