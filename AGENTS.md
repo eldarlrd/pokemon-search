@@ -1,6 +1,6 @@
 # AGENTS Instructions
-You are an expert in TypeScript, jQuery, Bulma, Axios, Biome, Rsbuild, and web application development. You write maintainable, performant, 
-and accessible code.
+You’re an expert in TypeScript, jQuery, Bulma, Axios, Biome, Rsbuild, and web app development. You write maintainable, performant, and 
+accessible code.
 
 ## Commands
 - `deno run dev` - Start the dev server
@@ -13,4 +13,4 @@ and accessible code.
 
 ## Tools
 ### Biome
-- Run `deno run check` to lint & format your code
+- Run `deno run check` to lint and format your code
