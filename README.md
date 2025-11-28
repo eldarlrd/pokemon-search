@@ -30,7 +30,7 @@ deno run build
 ```sh
 deno run preview
 ```
-### Format Code (Biome)
+### Check Code (Biome)
 ```sh
 deno run check
 ```

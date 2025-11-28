@@ -18,12 +18,12 @@ export default defineConfig({
   html: {
     title: 'Pokémon Search',
     meta: {
-      description: 'A Pokémon Search app',
+      description: 'A Pokédex app',
       keywords: 'pokemon',
       author: 'Eldar Pashazade',
       'theme-color': '#fff',
       'og:title': 'Pokémon Search',
-      'og:description': 'A Pokémon Search app',
+      'og:description': 'A Pokédex app',
       'og:url': 'https://eldarlrd.is-a.dev/pokemon-search',
       'og:image': 'https://repository-images.githubusercontent.com/'
     },

@@ -1,12 +1,12 @@
 {
 	"name": "pokemon-search",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"private": true,
 	"type": "module",
 	"keywords": [
 		"pokemon"
 	],
-	"description": "A Pokémon Search app",
+	"description": "A Pokédex app",
 	"repository": "github:eldarlrd/pokemon-search",
 	"homepage": "https://eldarlrd.is-a.dev/pokemon-search",
 	"author": "Eldar Pashazade <eldarlrd@pm.me> (https://eldarlrd.is-a.dev)",

@@ -1,6 +1,6 @@
 {
 	"name": "Pokémon Search",
-	"short_name": "Pokémon Search",
+	"short_name": "Pokédex",
 	"dir": "ltr",
 	"lang": "en",
 	"categories": ["entertainment"],
@@ -8,7 +8,7 @@
 	"orientation": "natural",
 	"theme_color": "#fff",
 	"background_color": "#fff",
-	"description": "A Pokémon Search app",
+	"description": "A Pokédex app",
 	"start_url": "https://eldarlrd.github.io/pokemon-search/",
 	"icons": [
 		{

@@ -1,6 +1,6 @@
 /**
  * @license AGPL-3.0-only
- * Pokémon Search - A Pokémon Search app
+ * Pokémon Search - A Pokédex app
  * Copyright (C) 2025 Eldar Pashazade <eldarlrd@pm.me>
  *
  * This file is part of Pokémon Search.
